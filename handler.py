@@ -37,6 +37,19 @@ email2 = (data['private_data']['user_data']['email'])
 address2 = (data['private_data']['user_data']['address'])
 order_description2 = (data['private_data']['user_data']['order_description'])
 
+name2 = (data['private_data']['user_data']['name'])
+email2 = (data['private_data']['user_data']['email'])
+address2 = (data['private_data']['user_data']['address'])
+order_description2 = (data['private_data']['user_data']['order_description'])
+name2 = (data['private_data']['user_data']['name'])
+email2 = (data['private_data']['user_data']['email'])
+address2 = (data['private_data']['user_data']['address'])
+order_description2 = (data['private_data']['user_data']['order_description'])
+name2 = (data['private_data']['user_data']['name'])
+email2 = (data['private_data']['user_data']['email'])
+address2 = (data['private_data']['user_data']['address'])
+order_description2 = (data['private_data']['user_data']['order_description'])
+
 
 
 eci_secure_3d_transactions = data['private_data']['visa_3d_secure_data']['eci_secure_3d_transactions']
